@@ -1,0 +1,13 @@
+# alle Dateien, die auf .o enden
+*.o
+#eine bestimmte Datei, z.B. ein Executable
+debugrandom
+random
+randomanswer
+sieb
+time
+tictactoe
+# Sicherungskopien, die auf ~ enden
+*~
+# das Unterverzeichnis build/ (von cmake)
+build/
